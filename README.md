@@ -1,5 +1,5 @@
 # hamster
-Quick computer vision app that replaces round objects in photos with a round hamster.
+Quick computer vision app that replaces round objects in photos with a round hamster. Written with help from fellow Mudder Kelvin J. at kjamison@g.hmc.edu as a capstone project for HMC course Computer Science for Inquiry
 
 
 ## File information:
